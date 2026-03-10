@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\GestorTareas\\",
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\source\\repos\\gestortareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\source\\repos\\gestortareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\source\\repos\\gestortareas\\winformsapp2\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\source\\repos\\gestortareas\\winformsapp2\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp2\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T13:14:26.981Z",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GestorTareas.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\GestorTareas.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\GestorTareas.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\GestorTareas.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\GestorTareas.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\GestorTareas.cs",
               "RelativeToolTip": "WinFormsApp2\\GestorTareas.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Form1.cs",
               "RelativeToolTip": "WinFormsApp2\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Tarea.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Tarea.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Tarea.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\GestorTareas\\WinFormsApp2\\Tarea.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Tarea.cs",
               "RelativeToolTip": "WinFormsApp2\\Tarea.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
