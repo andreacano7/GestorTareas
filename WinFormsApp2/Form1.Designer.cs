@@ -30,6 +30,10 @@
             textBox3 = new TextBox();
             textBox4 = new TextBox();
             textBox5 = new TextBox();
+            chkPrioridadAlta = new CheckBox();
+            cmbCategoria = new ComboBox();
+            lblContadorTareas = new Label();
+            btnLimpiarCampos = new Button();
             SuspendLayout();
             // 
             // txtTitulo
@@ -64,32 +68,35 @@
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(569, 173);
+            btnAgregar.BackColor = Color.MediumSpringGreen;
+            btnAgregar.Location = new Point(605, 167);
             btnAgregar.Name = "btnAgregar";
-            btnAgregar.Size = new Size(152, 59);
+            btnAgregar.Size = new Size(94, 48);
             btnAgregar.TabIndex = 4;
             btnAgregar.Text = "Añadir";
-            btnAgregar.UseVisualStyleBackColor = true;
+            btnAgregar.UseVisualStyleBackColor = false;
             btnAgregar.Click += btnAgregar_Click;
             // 
             // btnEliminar
             // 
-            btnEliminar.Location = new Point(569, 255);
+            btnEliminar.BackColor = Color.DarkCyan;
+            btnEliminar.Location = new Point(605, 238);
             btnEliminar.Name = "btnEliminar";
-            btnEliminar.Size = new Size(152, 59);
+            btnEliminar.Size = new Size(94, 49);
             btnEliminar.TabIndex = 5;
             btnEliminar.Text = "Eliminar";
-            btnEliminar.UseVisualStyleBackColor = true;
+            btnEliminar.UseVisualStyleBackColor = false;
             btnEliminar.Click += btnEliminar_Click;
             // 
             // btnCompletar
             // 
-            btnCompletar.Location = new Point(569, 344);
+            btnCompletar.BackColor = Color.PaleTurquoise;
+            btnCompletar.Location = new Point(605, 313);
             btnCompletar.Name = "btnCompletar";
-            btnCompletar.Size = new Size(152, 57);
+            btnCompletar.Size = new Size(100, 44);
             btnCompletar.TabIndex = 6;
             btnCompletar.Text = "Marcar";
-            btnCompletar.UseVisualStyleBackColor = true;
+            btnCompletar.UseVisualStyleBackColor = false;
             btnCompletar.Click += btnCompletar_Click;
             // 
             // textBox3
@@ -119,6 +126,48 @@
             textBox5.TabIndex = 9;
             textBox5.Text = "Fecha:";
             // 
+            // chkPrioridadAlta
+            // 
+            chkPrioridadAlta.AutoSize = true;
+            chkPrioridadAlta.BackColor = Color.SkyBlue;
+            chkPrioridadAlta.Location = new Point(203, 417);
+            chkPrioridadAlta.Name = "chkPrioridadAlta";
+            chkPrioridadAlta.Size = new Size(92, 24);
+            chkPrioridadAlta.TabIndex = 10;
+            chkPrioridadAlta.Text = "Prioridad";
+            chkPrioridadAlta.UseVisualStyleBackColor = false;
+            chkPrioridadAlta.CheckedChanged += chkPrioridadAlra_CheckedChanged;
+            // 
+            // cmbCategoria
+            // 
+            cmbCategoria.FormattingEnabled = true;
+            cmbCategoria.Items.AddRange(new object[] { "Trabajo", "Personal", "Estudio" });
+            cmbCategoria.Location = new Point(583, 84);
+            cmbCategoria.Name = "cmbCategoria";
+            cmbCategoria.Size = new Size(122, 28);
+            cmbCategoria.TabIndex = 11;
+            // 
+            // lblContadorTareas
+            // 
+            lblContadorTareas.AutoSize = true;
+            lblContadorTareas.BackColor = Color.LightBlue;
+            lblContadorTareas.Location = new Point(328, 421);
+            lblContadorTareas.Name = "lblContadorTareas";
+            lblContadorTareas.Size = new Size(114, 20);
+            lblContadorTareas.TabIndex = 12;
+            lblContadorTareas.Text = "Tareas totales: 0";
+            // 
+            // btnLimpiarCampos
+            // 
+            btnLimpiarCampos.BackColor = Color.CadetBlue;
+            btnLimpiarCampos.Location = new Point(605, 381);
+            btnLimpiarCampos.Name = "btnLimpiarCampos";
+            btnLimpiarCampos.Size = new Size(100, 44);
+            btnLimpiarCampos.TabIndex = 13;
+            btnLimpiarCampos.Text = "Clear";
+            btnLimpiarCampos.UseVisualStyleBackColor = false;
+            btnLimpiarCampos.Click += btnLimpiarCampos_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -126,6 +175,10 @@
             BackColor = Color.Thistle;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(800, 450);
+            Controls.Add(btnLimpiarCampos);
+            Controls.Add(lblContadorTareas);
+            Controls.Add(cmbCategoria);
+            Controls.Add(chkPrioridadAlta);
             Controls.Add(textBox5);
             Controls.Add(textBox4);
             Controls.Add(textBox3);
@@ -155,5 +208,9 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox5;
+        private CheckBox chkPrioridadAlta;
+        private ComboBox cmbCategoria;
+        private Label lblContadorTareas;
+        private Button btnLimpiarCampos;
     }
 }
