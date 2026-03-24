@@ -103,6 +103,8 @@ namespace WinFormsApp2
             
             cmbCategoria.SelectedIndex = -1;
         }
+
+
     }
 
 }
