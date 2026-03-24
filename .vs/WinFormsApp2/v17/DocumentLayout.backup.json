@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\gestortareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+=======
+      "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+>>>>>>> feature/registro
+      "RelativeMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A14355C-69B9-4A60-ABB3-40FBD3C0C541}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\andre\\onedrive\\escritorio\\gestortareas\\winformsapp2\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +38,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinFormsApp2\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:14:26.981Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-02-17T13:14:26.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GestorTareas.cs",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\GestorTareas.cs",
               "RelativeDocumentMoniker": "WinFormsApp2\\GestorTareas.cs",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\GestorTareas.cs",
               "RelativeToolTip": "WinFormsApp2\\GestorTareas.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T15:39:31.904Z"
+              "WhenOpened": "2026-02-10T15:39:31.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,7 +68,7 @@
               "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Escritorio\\GestorTareas\\WinFormsApp2\\Form1.cs",
               "RelativeToolTip": "WinFormsApp2\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAjwGYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAEwGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T14:39:51.405Z"
             },

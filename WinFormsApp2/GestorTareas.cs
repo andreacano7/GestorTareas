@@ -36,8 +36,8 @@ namespace WinFormsApp2
 
 
     }
-
-    // Funcionalidad de login
-    //Console.WriteLine("Login implementado");
+    // Funcionalidades de login y registro
+    // Console.WriteLine("Login implementado");
+    // Console.WriteLine("Registro implementado");
 
 }
