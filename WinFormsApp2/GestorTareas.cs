@@ -33,5 +33,11 @@ namespace WinFormsApp2
         {
             return listaTareas;
         }
+
+
     }
+
+    // Funcionalidad de registro
+    //Console.WriteLine("Registro implementado");
+
 }
